@@ -1,17 +1,8 @@
     {"success":true,"products":[
 
-    {"ProductID":"1","ProductName":"Kamar Luxury","SupplierID":"1","CategoryID":"1","QuantityPerUnit":"10 boxes x 20 bags","UnitPrice":"18","UnitsInStock":"39","UnitsOnOrder":"0","ReorderLevel":"10","Discontinued":"0","url":"https://arsitagx-master-article.s3-ap-southeast-1.amazonaws.com/article-photo/245/Kamar-Tidur-Foto-3.jpeg"},
+    {"id":"1","nama":"Kamar Luxury","keterangan":"K.Mandi dalam - Wifi - AC-Kloset...","tipe":"Kamar Tipe A","harga":"2.800.000/Bulan","stok":"39","url":"https://arsitagx-master-article.s3-ap-southeast-1.amazonaws.com/article-photo/245/Kamar-Tidur-Foto-3.jpeg"}
 
-    {"ProductID":"1","ProductName":"Kamar Luxury","SupplierID":"1","CategoryID":"1","QuantityPerUnit":"10 boxes x 20 bags","UnitPrice":"18","UnitsInStock":"39","UnitsOnOrder":"0","ReorderLevel":"10","Discontinued":"0","url":"https://arsitagx-master-article.s3-ap-southeast-1.amazonaws.com/article-photo/245/Kamar-Tidur-Foto-3.jpeg"},
     
-    {"ProductID":"1","ProductName":"Kamar Luxury","SupplierID":"1","CategoryID":"1","QuantityPerUnit":"10 boxes x 20 bags","UnitPrice":"18","UnitsInStock":"39","UnitsOnOrder":"0","ReorderLevel":"10","Discontinued":"0","url":"https://arsitagx-master-article.s3-ap-southeast-1.amazonaws.com/article-photo/245/Kamar-Tidur-Foto-3.jpeg"},
-
-    {"ProductID":"1","ProductName":"Kamar Luxury","SupplierID":"1","CategoryID":"1","QuantityPerUnit":"10 boxes x 20 bags","UnitPrice":"18","UnitsInStock":"39","UnitsOnOrder":"0","ReorderLevel":"10","Discontinued":"0","url":"https://arsitagx-master-article.s3-ap-southeast-1.amazonaws.com/article-photo/245/Kamar-Tidur-Foto-3.jpeg"},
-
-    {"ProductID":"1","ProductName":"Kamar Luxury","SupplierID":"1","CategoryID":"1","QuantityPerUnit":"10 boxes x 20 bags","UnitPrice":"18","UnitsInStock":"39","UnitsOnOrder":"0","ReorderLevel":"10","Discontinued":"0","url":"https://arsitagx-master-article.s3-ap-southeast-1.amazonaws.com/article-photo/245/Kamar-Tidur-Foto-3.jpeg"},
-
-    {"ProductID":"1","ProductName":"Kamar Luxury","SupplierID":"1","CategoryID":"1","QuantityPerUnit":"10 boxes x 20 bags","UnitPrice":"18","UnitsInStock":"39","UnitsOnOrder":"0","ReorderLevel":"10","Discontinued":"0","url":"https://arsitagx-master-article.s3-ap-southeast-1.amazonaws.com/article-photo/245/Kamar-Tidur-Foto-3.jpeg"}
-
     
     
     
